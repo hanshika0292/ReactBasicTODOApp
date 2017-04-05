@@ -1,0 +1,12 @@
+.App {
+  background-color: #222;
+  color: white;
+}
+
+.App-header {
+  text-align: center;
+  height: 30px;
+  padding-top: 5px;
+  padding-bottom: 35px;
+  text-decoration: underline;
+}

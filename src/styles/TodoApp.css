@@ -1,0 +1,51 @@
+.TodoApp {
+    background-color: salmon;
+    color: white;
+    width: 100%;
+    height: 570px;
+}
+.header{
+    margin: 10px 10px 0px;
+    padding: 10px 10px 0px;
+}
+.line{
+    height: 2px;
+    border-color: ghostwhite;
+    background-color: ghostwhite;
+}
+
+.todoItem{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid crimson;
+    font-size: 20px;
+    font-weight: 600;
+}
+.todoX{
+    color:white;
+}
+.todoI{
+    text-decoration: none;
+    color: white;
+}
+.todoI:hover{
+    text-decoration: underline;
+}
+
+.todoText{
+    width:25%;
+    border-radius: 10px;
+    height: 35px;
+    font-size: 20px;
+}
+
+.todoBtn{
+    border-radius: 10px;
+    box-shadow: none;
+    border-color: darksalmon;
+    background-color:darksalmon;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    font-weight: 900;
+}
